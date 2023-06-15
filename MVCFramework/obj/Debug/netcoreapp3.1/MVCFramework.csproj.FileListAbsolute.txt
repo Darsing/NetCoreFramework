@@ -70,7 +70,6 @@ C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\staticweba
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.TagHelpers.input.cache
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.TagHelpers.output.cache
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.RazorCoreGenerate.cache
-C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminPage.cshtml.g.cs
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
@@ -86,3 +85,5 @@ C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramewo
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.dll
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.pdb
 C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\MVCFramework.genruntimeconfig.cache
+C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\xampp\htdocs\NetCoreFramework\MVCFramework\obj\Debug\netcoreapp3.1\Razor\Views\UserDetails\Index.cshtml.g.cs
